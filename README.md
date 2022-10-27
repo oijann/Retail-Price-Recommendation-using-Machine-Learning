@@ -7,3 +7,8 @@ In this machine learning project, we will build a model that automatically sugge
 **train_id** (the id of the listing), **name** (the title of the listing), **item_condition_id** (the condition of the items provided by the sellers), **category_name** (category of the listing), **brand_name** (the name of the brand), **price** (the price that the item was sold for. This is target variable that we will predict), **shipping** (1 if shipping fee is paid by seller and 0 by buyer), **item_description** (the full description of the item).
 
 The data set can be downloaded from https://www.kaggle.com/datasets/saitosean/mercari. To validate the result, I only need the train.tsv.
+
+### References  
+
+   Huge shoutout goes to hunglc007 for creating the backbone of this repository:
+  * [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
