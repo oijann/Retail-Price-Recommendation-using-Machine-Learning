@@ -10,5 +10,5 @@ The data set can be downloaded from https://www.kaggle.com/datasets/saitosean/me
 
 ### References  
 
-   Huge shoutout goes to hunglc007 for creating the backbone of this repository:
-  * [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
+   Huge shoutout goes to Susan Li for creating the backbone of this repository:
+  * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
